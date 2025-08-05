@@ -32,4 +32,4 @@ elif userRanking > 30000:
 else:
     print('Sorry, no ranking')
 
-print ('⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘⫘')
+print ('⫘⫘⫘⫘⫘⫘⫘⫘END⫘⫘⫘⫘⫘⫘⫘⫘⫘')
