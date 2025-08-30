@@ -17,3 +17,4 @@ for i in range(len(names)): #same thing - Aqui ele pega o tamanho da lista, e pr
 number: int # Here im just add a type to VAR because python as rage me.
 for number in range(5): #way to make a list more quickly
     print(number)
+# test
