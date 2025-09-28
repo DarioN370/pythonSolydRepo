@@ -1,0 +1,1 @@
+minha_lista = ['A', 'B', 'C', 'D', 'E', 'F'];
