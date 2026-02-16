@@ -12,8 +12,8 @@ print(slogan_divider)
 #####################################################################################
 
 list_name = ['Dario', 'Ju', 'Ana', 'Dario Junior','Ju', 'Dario Junior']
-list_name.append('Barbara') #add item in the last index.
-list_name.append('Friday') #add item in the last index.
+list_name.append('Barbara') # add item in the last index.
+list_name.append('Friday') # add item in the last index.
 list_name.remove('Dario') #remove
 list_name.insert(0, 'Jesus') # parameter(INDEX, Object)
 #CLEAR THE LIST ---- list_name.clear()
