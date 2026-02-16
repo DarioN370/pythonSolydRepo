@@ -1,0 +1,1 @@
+# Escreva uma function que recebe um objeto de coleção (lista, tupla etc...) e vai retornar o valor do maior numero dentro dessa colecao
